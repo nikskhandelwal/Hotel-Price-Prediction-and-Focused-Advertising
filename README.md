@@ -5,7 +5,7 @@ author: "Nikhil Khandelwal"
 date: "12/2/2021"
 output: html_document
 ---
-![](/Users/nikhilkhandelwal/Desktop/Study/Fall 2021/Flex 2/Data Wrangling/Final Project/Hotel.png)
+
 
 # Hotels Data Analysis {.tabset .tabset-pills}
 
