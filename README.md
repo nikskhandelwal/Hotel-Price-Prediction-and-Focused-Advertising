@@ -1,13 +1,7 @@
 # Hotel-Price-Prediction-and-Focused-Advertising
----
-title: "Hotel Price Predection and Focused Advertising"
-author: "Nikhil Khandelwal"
-date: "12/2/2021"
-output: html_document
----
 
 
-# Hotels Data Analysis {.tabset .tabset-pills}
+# Hotels Data Analysis
 
 ## Introduction
 
